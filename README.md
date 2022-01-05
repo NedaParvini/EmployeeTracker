@@ -34,4 +34,4 @@ The application is invoked by running node server.js in the command line.
 
 ## Screenshot:
 
-![Screenshot](notetake.jpg) 
+![Screenshot](terminal-result.jpg) 
