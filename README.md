@@ -33,7 +33,7 @@ The application is invoked by running node server.js in the command line.
 
 ## Video:
 
-![Video](EmpTracker.mp4) 
+[![Watch the video](https://github.com/NedaParvini/EmployeeTracker/EmpTracker.mp4)]
 
 ## Screenshot:
 
