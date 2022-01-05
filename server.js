@@ -80,7 +80,7 @@ function start() {
 
             case "Exit":
                 connection.end();
-                break;
+                
         }
     });
 }
