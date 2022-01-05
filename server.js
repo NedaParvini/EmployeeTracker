@@ -74,7 +74,7 @@ function start() {
                 addEe();
                 break;
 
-            case "Update employee role":
+            case "Update an employee role":
                 update();
                 break;
 
