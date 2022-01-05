@@ -8,7 +8,7 @@ VALUES
     ("Human Resource Management"),
     ("Research and Development ");
 
-INSERT INTO role(title, salary, department_id)
+INSERT INTO role(title, salary, Department_id)
 VALUES
     ("Sales Lead", 100000, 1),
     ("Salesperson", 80000, 1),
