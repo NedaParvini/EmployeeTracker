@@ -31,7 +31,11 @@ The application is invoked by running node server.js in the command line.
 
 *npm packages (Inquirer, mysql)
 
+## Video:
+
+![Video](EmpTracker.mp4) 
 
 ## Screenshot:
 
 ![Screenshot](terminal-result.jpg) 
+
